@@ -6,7 +6,7 @@ menu: Syllabus
 order: 2
 ---
 
-##The syllabus is currently still under construction, please check back later for an up-to-date syllabus!
+## The syllabus is currently still under construction, please check back later for an up-to-date syllabus!
 
 This course is an introduction to key design principles and techniques for interactively visualizing data. The major goals of this course are to understand how visual representations can help analyze and understand complex data, how to design effective visualizations, and how to create your own interactive visualizations using modern web-based frameworks.
 
