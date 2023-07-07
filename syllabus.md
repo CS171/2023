@@ -50,12 +50,12 @@ Here is the weekly rhythm of the course:
 * Overall, expect to spend about 8-10 hours on asynchronous materials, homework, and project work outside of classes and labs. Students with less programming experience typically will spend more time.
 Each of the course components is discussed in more detail below.
 
-## Limited Enrollment
-To provide the best possible online learning experience during live classes we have limited enrollment in the course.
 
-*College Students:* If you are interested in joining this course please fill out the enrollment survey on Canvas before the posted deadline.
+## Enrollment
 
-*DCE Students:* Sign up is on a first-come first-serve basis.
+*College Students:* There is no enrollment limit in CS171.
+
+*DCE Students:* Sign up is on a first-come first-serve basis. We will admit 40 DCE students.
 
 ## Prerequisites
 We require students to have taken a prior programming class, such as CS50 (Introduction to Programming) or similar. You should be comfortable picking up new programming skills. Having Javascript and web development experience is a big plus but not strictly required. Please be aware that learning web development and D3 can be time-consuming, depending on your programming background.
