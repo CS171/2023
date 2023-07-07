@@ -18,14 +18,13 @@ In this course you will learn how the human visual system processes and perceive
 
 This website is for both the Harvard college CS 171 course and the Harvard Extension School CSCI E-171 course.
 
-**Limited enrollment:** To provide the best possible learning experience this course has limited enrollment. We only admit 80 college students and 40 Extension school students.  
-*College students:* If you are interested in joining this course please complete HW 0 and the enrollment survey on our Canvas page. **The deadline for the enrollment survey is Aug 24th.** You will be notified about your enrollment on the 25th and have to confirm enrollment by end of day of Aug 25th or your spot will be given away.
+**Enrollment:** We do not restrict enrollment for CS 171. For CSCI E-171 (the extension school class), we admit 40 Extension school students.  
 *DCE students:* Course enrollment is on a first-come, first-serve basis.
 
 ### Instructor and TFs
 
 [Hanspeter Pfister](http://vcg.seas.harvard.edu/people/hanspeter-pfister) (Instructor)  
-Johanna Beyer (Head TF)
+[Johanna Beyer](https://johanna-b.github.io/) (Instructor)
 
 
 ### Course Sessions
@@ -39,27 +38,40 @@ Johanna Beyer (Head TF)
 Office hours are posted [here]({{ site.baseurl }}/schedule/#lab_oh_schedule).
 
 **Lecture Resources:**  
-Discussion forum (acces via [Canvas](https://canvas.harvard.edu/courses/108108))
-Materials and grades on [Canvas](https://canvas.harvard.edu/courses/108108)
+Discussion forum (acces via [Canvas](https://canvas.harvard.edu/courses/123364))
+Materials and grades on [Canvas](https://canvas.harvard.edu/courses/123364)
 
 
 ### Teaching Fellows
 
+Tentative List:
+
 * Zhutian Chen - Postdoc, Visual Computing Group
-* Jakob Troidl - Phd Student, Visual Computing Group
+* Johannes Knittel - Postdoc, HDSI
 * Robert Roessler - Phd Candidate, German Studies
+* Ethan McFarlin - Computer Science concentrator
+* Diana Feng - PhD Student, Education (Learning, Innovation and Education Lab)
+* Nancy Li
+* Teddy Lin
+* Sophie Webster
+
+DCE TFs:
+* SSiva Thangaraj - Specialist, Data Analytics / Cloud Infrastructure
+* Richard Morello - Data Science, Harvard MLA Extension Studies
+* Ian Kelk
+* Nitesh Kumar
+
+<!---
+* Jakob Troidl - Phd Student, Visual Computing Group
 * Kidist Alemu - AB/SM Computer Science
 * Elizabeth Ling - Computer Science concentrator
 * Eshika Saxena - Computer Science concentrator
 * Xinyi Li - MS in Data Science, G2
-* Ethan McFarlin - Computer Science concentrator
-* Diana Feng - PhD Student, Education (Learning, Innovation and Education Lab)
-* SSiva Thangaraj - Specialist, Data Analytics / Cloud Infrastructure
-* Richard Morello - Data Science, Harvard MLA Extension Studies
-
-
+--->
 
 ### Previous Years
+
+[2022 Fall Website](http://www.cs171.org/2022/)
 
 [2021 Fall Website](http://www.cs171.org/2021/)
 

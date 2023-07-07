@@ -6,6 +6,8 @@ menu: Syllabus
 order: 2
 ---
 
+##The syllabus is currently still under construction, please check back later for an up-to-date syllabus!
+
 This course is an introduction to key design principles and techniques for interactively visualizing data. The major goals of this course are to understand how visual representations can help analyze and understand complex data, how to design effective visualizations, and how to create your own interactive visualizations using modern web-based frameworks.
 
 This course, when taken for a letter grade, meets the Harvard General Education requirement for Empirical and Mathematical Reasoning. The course is also offered through the [Harvard University Extension School](http://www.extension.harvard.edu) as online course CSCI E-171.
@@ -154,6 +156,15 @@ If the assignment allows it and for your projects, you may use third-party libra
 *DCE Students:* You are responsible for understanding Harvard Extension School policies on academic integrity (https://extension.harvard.edu/for-students/student-policies-conduct/academic-integrity/Links to an external site.) and how to use sources responsibly. Stated most broadly, academic integrity means that all course work submitted, whether a draft or a final version of a paper, project, take-home exam, online exam, computer program, oral presentation, or lab report, must be your own words and ideas, or the sources must be clearly acknowledged. The potential outcomes for violations of academic integrity are serious and ordinarily include all of the following: required withdrawal (RQ), which means a failing grade in the course (with no refund), the suspension of registration privileges, and a notation on your transcript.
 
 Using sources responsibly (https://extension.harvard.edu/for-students/support-and-services/using-sources-effectively-and-responsibly/Links to an external site.) is an essential part of your Harvard education. We provide additional information about our expectations regarding academic integrity on our website. We invite you to review that information and to check your understanding of academic citation rules by completing two free online 15-minute tutorials that are also available on our site. (The tutorials are anonymous open-learning tools.)
+
+### AI Policy (ChatGPT and other AI tools)
+
+AI (artificial intelligence) resources such as ChatGPT can be useful in a number of ways. Because it can also be abused, however, you are required to acknowledge use of AI in any work you submit for class.
+
+The following are some guidelines for what not to do when using AI in your assignments:
+* Do not rely solely on AI tools to complete assignments. It is important to understand the material and complete assignments on your own, using AI tools as a supplement rather than a replacement for your own work.
+* Do not use AI tools to plagiarize. Using AI to generate or modify content to evade plagiarism detection is unethical and violates academic integrity.
+* Do not assume that AI responses are always correct. It has been noted that AI can generate fake results.
 
 ### Accessibility
 *College students:* Harvard University values inclusive excellence and providing equal educational opportunities for all students. Our goal is to remove barriers for disabled students related to inaccessible elements of instruction or design in this course. If reasonable accommodations are necessary to provide access, please contact the [Disability Access Office (DAO)](https://aeo.fas.harvard.edu/). Accommodations do not alter fundamental requirements of the course and are not retroactive. Students should request accommodations as early as possible, since they may take time to implement. Students should notify DAO at any time during the semester if adjustments to their communicated accommodation plan are needed.
