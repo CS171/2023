@@ -30,8 +30,7 @@ Here is the weekly rhythm of the course:
 ### Monday
 
 * Hand in your homework assignments at noon ET on Mondays.
-* Complete the assigned pre-reading and the Canvas pre-reading quiz before each week's programming lab.
-*College Students:*  Attend a mandatory programming lab (75 min) where you will work in pairs on self-guided lab notebooks to learn HMTL, CSS, Javascript, and D3. You will be assigned into pairs at the beginning of each lab. TFs will be available to help you. Attendance is mandatory, but if you cannot attend the lab in person and have been excused by the teaching staff, you can attend the virtual lab on Monday evening to get a pair partner assigned.
+*College Students:*  Attend a mandatory programming lab (75 min) where you will work in pairs on self-guided lab notebooks to learn HMTL, CSS, Javascript, and D3. You will be assigned into pairs at the beginning of each lab. TFs will be available to help you. Attendance is mandatory, but if you cannot attend the lab in person and have been excused by the teaching staff, you can attend the virtual lab on Monday evening to get a pair partner assigned. Upload the completed lab activities as part of your homework by the following Monday.
 *DCE Students:* Attend a virtual programming lab (75 min) where you will work in pairs on self-guided lab notebooks to learn HMTL, CSS, Javascript, and D3. TFs will be available to help you. Virtual lab attendance is strongly encouraged, but you might be excused on an individual basis.
 
 ### Wednesday
@@ -45,7 +44,7 @@ Here is the weekly rhythm of the course:
 ### Throughout the week
 
 * Work through reading materials that will be posted on Canvas.
-* Complete weekly homework assignments, which include finishing your lab notebooks, programming exercises, and work for your group project.
+* Complete weekly homework assignments, which include finishing your lab notebooks, programming exercises, design exercises, reading, and work for your group project.
 * Attend office hours  (or virtual office hours) with the TFs to get help with the labs and homework assignments. DCE students can attend weekly sections with the TFs.  
 * Overall, expect to spend about 8-10 hours on asynchronous materials, homework, and project work outside of classes and labs. Students with less programming experience typically will spend more time.
 Each of the course components is discussed in more detail below.
@@ -72,7 +71,7 @@ Harvard College students can access an online copy of the book on Hollis, or you
 ## Course Components
 
 ### Live Classes
-*College students:* The class meets every Wednesday. Attending these in-person classes is mandatory and a crucial component of learning the material in this course. Please arrive on time, as we will start promptly. At the end of each class, we will ask you to fill out and submit a brief reflection to collect feedback.
+*College students:* The class meets every Wednesday. Attending these in-person classes is mandatory and a crucial component of learning the material in this course. Please upload the completed activities as part of your homework. Please arrive on time, as we will start promptly.
 
 *DCE students:*  Instead of attending class in person, DCE and exempt college students can participate in a live zoom stream of the class or watch edited video recordings that will be posted no more than 24 hours after class. In either case, we strongly encourage you to complete the in-class activities independently. Additionally, we will hold a weekly virtual section for the activities and group-work covered in the lecture for DCE students. Groups will be assigned by the teaching staff.
 
@@ -85,11 +84,9 @@ You will work through self-guided notebooks to learn client-side web programming
 
 *Lab pairs:* You will work on all labs in pairs. We will assign your lab partner at the beginning of each lab. You will work together on the lab with your pair partner and are also allowed to discuss the homework with your lab partner. However, each one of you has to submit their own lab and homework and let us know who you worked with.
 
-### Asynchronous Materials & Quizzes
-In preparation for class each week, you will work on your own through asynchronous materials (mainly book chapters) to ensure that you are prepared for the programming labs and the activities in class. For the lab readings, you will be asked to complete brief online quizzes that test your understanding of the material for that week.
 
 ### Homework
-Weekly homework assignments are going to provide an opportunity to improve your design and programming skills. Homeworks will be due every Monday at noon ET. See the homework as an opportunity to learn and not to “earn points”. You can discuss solutions to homework assignments with your TFs during office hours. Homework solutions will not be posted publicly.
+Weekly homework assignments are going to provide an opportunity to improve your design and programming skills. Most homework assignments will include a) a programming part, b) a design part, c) a short quiz on reading material, and d) uploading the completed class activities and lab notebook. Homework will be due every Monday at noon ET. See the homework as an opportunity to learn and not to “earn points”. You can discuss solutions to homework assignments with your TFs during office hours. Homework solutions will not be posted publicly.
 
 ### Group Projects
 A big part of the course will be a group projects. You will work in teams of three students to design and implement interactive visualizations to answer questions about a specific topic and dataset. We will use a design sprint process with a series of graded milestones. You can choose your own team with three students each. Your team will create a web page that tells a story with interactive visualizations to answer questions about a topic of your own choosing. A small number of projects will win the coveted Best Project prize (Swiss chocolate).
@@ -100,14 +97,15 @@ The teaching fellows will provide in-person and online office hours at several d
 ## Grading
 This course can be taken for a letter grade only, there is no pass/fail option. The course grade comprises:
 
-* Class Activities (10%)
-* Lab Pre-reading Quizzes (10%)
-* Homework:
-    * Visualization Design Quizzes (15%)
-    * Programming Assignments (30%)
+* Lab Activities (15%)
+* Class Activities (15%)
+* Weekly Programming + Design Assignments (30%)
+* Lab Pre-reading Quizzes (5%)
 * Final Project (35%)
 
-Note that this grade breakdown is likely to be updated by the start of the semester to reflect our updated course material. Your participation grade includes participating in class and on EdStem, and being helpful to other students. We will drop your lowest quiz score. Any concerns about grading errors must be clearly articulated in writing and sent to <jbeyer@g.harvard.edu> within one week of receiving the grade.
+We will drop your lowest two scores for lab activities, class activities, and reading quizzes. You get four late days for your homework for the entire semester, but you can use no more than two late days on any single assignment.
+
+ Any concerns about grading errors must be clearly articulated in writing and sent to <jbeyer@g.harvard.edu> within one week of receiving the grade.
 
 We will map your points to letter grades using the following table:
 
