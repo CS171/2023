@@ -44,30 +44,20 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/123364)
 
 ### Teaching Fellows
 
-Tentative List:
-
-* Zhutian Chen - Postdoc, Visual Computing Group
-* Johannes Knittel - Postdoc, HDSI
-* Robert Roessler - Phd Candidate, German Studies
-* Ethan McFarlin - Computer Science concentrator
+* Zhutian Chen - Postdoctoral Fellow, Visual Computing Group
 * Diana Feng - PhD Student, Education (Learning, Innovation and Education Lab)
-* Nancy Li
-* Teddy Lin
-* Sophie Webster
+* Johannes Knittel - Postdoctoral Fellow, HDSI
+* Sijia (Nancy) Li - Master in Data Science
+* Teddy Lin - CS Concentrator, Harvard College
+* Richard Morello - Data Science MLA, Harvard DCE
+* Robert Roessler - Data Scientist & BI Engineer, Codametrix
+* Sophie Webster - Computational Researcher, Broad Institute Cancer Program
 
 DCE TFs:
-* SSiva Thangaraj - Specialist, Data Analytics / Cloud Infrastructure
-* Richard Morello - Data Science, Harvard MLA Extension Studies
-* Ian Kelk
-* Nitesh Kumar
+* Jakob Troidl  PhD Candidate, Visual Computing Group
+* Rebecca Brand - Master in Design Engineering '23, Product Designer at Studio Rodrigo
+* Siva S Thangaraj - Solution Architect
 
-<!---
-* Jakob Troidl - Phd Student, Visual Computing Group
-* Kidist Alemu - AB/SM Computer Science
-* Elizabeth Ling - Computer Science concentrator
-* Eshika Saxena - Computer Science concentrator
-* Xinyi Li - MS in Data Science, G2
---->
 
 ### Previous Years
 
