@@ -49,13 +49,13 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/123364)
 * Johannes Knittel - Postdoctoral Fellow, HDSI
 * Sijia (Nancy) Li - Master in Data Science
 * Teddy Lin - CS Concentrator, Harvard College
+* Ethan McFarlin - CS Concentrator, Harvard College
 * Richard Morello - Data Science MLA, Harvard DCE
 * Robert Roessler - Data Scientist & BI Engineer, Codametrix
 * Sophie Webster - Computational Researcher, Broad Institute Cancer Program
 
 DCE TFs:
 * Jakob Troidl  PhD Candidate, Visual Computing Group
-* Rebecca Brand - Master in Design Engineering '23, Product Designer at Studio Rodrigo
 * Siva S Thangaraj - Solution Architect
 
 
