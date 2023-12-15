@@ -6,6 +6,22 @@ order: 8
 menu: Fame
 ---
 
+## Best Projects Fall 2023
+These are the best projects (out of 43 in total) in 2023.
+
+### Winner
+[Decode Your Personality Type Through Melodies You Love](https://quanyoya.github.io/MBTI-Music/)
+Jyuan Liu, Clara Ye, Lingbo Li
+
+### Runner Up
+[Race for the White House](https://luke-stoner.github.io/RWH/)
+Luke Stoner, Kane Norman, Andrew Sullivan
+
+### Honorable Mention
+[Exploration of Linguistic Diversity](https://how340.github.io/CS171-Final-Project/)
+Hongkai Wang, Bryan Fores, Ryan Wang
+
+
 ## Best Projects Fall 2022
 These are the best projects (out of 40 in total) in 2022.
 
